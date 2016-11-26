@@ -1,5 +1,5 @@
 package readstrings;
-//
+// test github
 /*Contents:
 - String method: using .equals(), .indexOf(), .substring(a,b), toLowerCase(), .length();
 - Notes about .indexOf() and .substring():
